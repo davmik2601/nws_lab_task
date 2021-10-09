@@ -1,0 +1,16 @@
+.home_page .see_more {
+  display: block!important;
+  width: 160px;
+  font-size: 23px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 8px 0;
+  cursor: pointer;
+  color: grey;
+  text-align: center;
+  margin: 10px auto 0
+}
+
+.home_page .see_more:hover {
+  color: green;
+  font-weight: bold;
+}
